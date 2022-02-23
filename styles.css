@@ -1,0 +1,98 @@
+.datos{
+    text-align: right;
+    margin-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+}
+
+h1{
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30pt;
+    color: #419FB8;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.parrafo-principal{
+    font-family: Tahoma;
+    font-style: normal;
+    font-size: 12pt;
+   margin-left: 10%;
+   margin-right: 10%;
+ 
+}
+
+.colores{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21.5pt;
+    margin-left: 10%;
+    text-align: left;
+}
+
+.parrafo-izquierdo{
+    position: relative;
+	padding: 0;
+    font-family: 'cambria';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14pt;
+    margin-left: 10%;
+    margin-right: 55%;
+    text-align: justify;
+    float: left;
+}
+
+.parrafo-derecho{
+   
+    
+    position: absolute;
+	left: 400px;
+	top: 320px;
+    font-family: 'Cambria';
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12pt;
+    margin-left: 30%;
+    margin-right: 10cm;
+    text-align: justify;
+    border-right-width: thin;
+    border-left-width: thin;
+    border-top-width: thin;
+    border-bottom-width: thin;
+    border-top-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+    border-left-color: black;
+    border-style: solid;
+}
+
+
+.izq{
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12pt;
+    margin-left: 13cm;
+    margin-right: 10cm;
+    text-align: right;
+}
+
+a{
+    color: #D3639A;
+
+}
+
+.p-izq{
+    font-family: Tahoma;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12pt;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    text-align: left;
+}
